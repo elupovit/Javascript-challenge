@@ -28,6 +28,8 @@ data.forEach((weatherReport) => {
 });
 
 
+// PART 2
+
 // Create a custom filtering function
 function selectDate {
     return person.age < 30;
